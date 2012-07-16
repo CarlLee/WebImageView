@@ -13,3 +13,5 @@
 -   Change the comments into English
 
 -   Add more comments
+
+-   Add progress bar as an option of waiting image
