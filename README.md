@@ -8,10 +8,12 @@
 
 ***TODOs***
 
--   Use MD5 digest of the URL of the image that is cached on local disk as the file name instead of the original file name. This can avoid mistaking pictures with same name from different domain name.
+-   Use MD5 digest of the URL of the image that is cached on local disk as the file name instead of the original file name. This can avoid mistaking pictures with same name from different domain names.
 
 -   Change the comments into English
 
 -   Add more comments
 
 -   Add progress bar as an option of waiting image
+
+-   Add xml support
